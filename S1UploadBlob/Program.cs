@@ -1,4 +1,5 @@
-﻿using System;
+/* (C) 2020 - Mirza Ghulam Rasyid */
+using System;
 using System.IO;
 using System.Threading.Tasks;
 using System.Collections.Generic;
@@ -95,3 +96,4 @@ namespace S1UploadBlob
         }
     }
 }
+
